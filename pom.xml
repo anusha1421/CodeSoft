@@ -22,7 +22,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass > org.anusha.Helloworld</mainClass>
+                            <mainClass >org.anusha.Helloworld</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
